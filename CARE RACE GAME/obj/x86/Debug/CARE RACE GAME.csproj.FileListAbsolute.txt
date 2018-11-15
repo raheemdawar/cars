@@ -1,0 +1,8 @@
+c:\users\saqib\documents\visual studio 2010\Projects\CARE RACE GAME\CARE RACE GAME\bin\Debug\CARE RACE GAME.exe
+c:\users\saqib\documents\visual studio 2010\Projects\CARE RACE GAME\CARE RACE GAME\bin\Debug\CARE RACE GAME.pdb
+c:\users\saqib\documents\visual studio 2010\Projects\CARE RACE GAME\CARE RACE GAME\obj\x86\Debug\CARE_RACE_GAME.Form1.resources
+c:\users\saqib\documents\visual studio 2010\Projects\CARE RACE GAME\CARE RACE GAME\obj\x86\Debug\CARE_RACE_GAME.Properties.Resources.resources
+c:\users\saqib\documents\visual studio 2010\Projects\CARE RACE GAME\CARE RACE GAME\obj\x86\Debug\CARE RACE GAME.csproj.GenerateResource.Cache
+c:\users\saqib\documents\visual studio 2010\Projects\CARE RACE GAME\CARE RACE GAME\obj\x86\Debug\CARE RACE GAME.exe
+c:\users\saqib\documents\visual studio 2010\Projects\CARE RACE GAME\CARE RACE GAME\obj\x86\Debug\CARE RACE GAME.pdb
+C:\Users\Saqib\documents\visual studio 2010\Projects\CARE RACE GAME\CARE RACE GAME\obj\x86\Debug\CARE RACE GAME.csprojResolveAssemblyReference.cache
